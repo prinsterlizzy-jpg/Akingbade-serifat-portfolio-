@@ -27,7 +27,7 @@ Skills & Tools:
 
 
 🚀 Live Demo 
-https://github.com/prinsterlizzy-jpg/Akingbade-serifat-portfolio-.git
+coming soon...
 
 🧭 Project Structure
 
